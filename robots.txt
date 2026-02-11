@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miltonhossain.netlify.app/sitemap.xml
